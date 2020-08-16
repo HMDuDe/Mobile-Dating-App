@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">SearchMySoulmate</string>
+    <string name="facebook_app_id">721329421651316</string>
+    <string name="fb_login_protocol_scheme">fb721329421651316</string>
+    <string name="CancelBtn">cancel</string>
+    <string name="nextBtn">next</string>
+    <string name="descriptionSigUp">Please fill in your details below</string>
+    <string name="Step1">Step 1</string>
+    <string name="fullNameLbl">Full Name</string>
+    <string name="surnameLbl">Surname</string>
+    <string name="emailLbl">Email</string>
+    <string name="confirmPwLbl">Confirm Password</string>
+    <string name="passwordLbl">Password</string>
+    <string name="jobTitleLbl">Job Title</string>
+    <string name="companyLbl">Company</string>
+    <string name="homeCityLbl">Home City</string>
+    <string name="genderSwitch">Male</string>
+    <string name="Step2">Step 2</string>
+    <string name="descriptionSigUp2">almost done!</string>
+    <string name="backBtn">back</string>
+    <string name="Description2">upload some pics of yourself!</string>
+    <string name="personDexcription">tell us about yourself!</string>
+    <string name="personDexcription2">hobbies, likes, interests, etc</string>
+    <string name="inputforInputUser">type here</string>
+    <string name="textAlmostthere">one more step to go!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="step_3">Step 3</string>
+    <string name="view3description">final step!</string>
+    <string name="view3Question">are you ready to find your soulmate?</string>
+    <string name="relaexed_yes">I think so!</string>
+    <string name="yes_emphasis">YES!!!</string>
+    <string name="AllHopeLost">I\'ll give it a try</string>
+    <string name="HomeBTN3">home</string>
+    <string name="doneBtn">password please!</string>
+    <string name="promptEmailLb">Please enter your email address</string>
+    <string name="Question">Please answer the following question:</string>
+    <string name="about">About</string>
+    <string name="name">Name</string>
+</resources>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/oppacity_new"
+    tools:context=".registrationPagePart2">
+
+    <ImageView
+        android:id="@+id/imageShade"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#BAFFE6DA"
+        tools:ignore="ContentDescription" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/Step3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="60dp"
+
+            android:text="@string/step_3"
+            android:textAlignment="center"
+            android:textColor="#FA4487"
+            android:textSize="50sp" />
+
+        <TextView
+            android:id="@+id/view3descripton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:layout_marginTop="20dp"
+            android:textSize="30sp"
+            android:textColor="#FA4487"
+
+            android:text="@string/view3description" />
+
+        <TextView
+            android:id="@+id/view3question"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textAlignment="center"
+            android:layout_marginTop="40dp"
+            android:textSize="30sp"
+            android:text="@string/view3Question" />
+
+        <Button
+            android:id="@+id/yes_emphasis"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="80dp"
+            android:layout_marginTop="25dp"
+            android:layout_marginRight="80dp"
+            android:background="#68FAF9F9"
+            android:text="@string/yes_emphasis"
+            android:textColor="#CBFF307F"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/relaxed_yes"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="80dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginRight="80dp"
+            android:background="#68FAF9F9"
+            android:text="@string/relaexed_yes"
+            android:textAllCaps="false"
+            android:textColor="#D2FF8F5A"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/AllHopeLost"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="80dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginRight="80dp"
+            android:background="#68FAF9F9"
+            android:text="@string/AllHopeLost"
+            android:textAllCaps="false"
+            android:textColor="#C98E8E"
+            android:textSize="30sp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/buttonLayoutSignUp"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/backBtn"
+            android:layout_width="190dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="11dp"
+            android:layout_marginLeft="11dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginRight="10dp"
+            android:background="#94FFFFFF"
+            android:text="@string/backBtn"
+            android:textAllCaps="false"
+            android:textColor="#FF9E80"
+            android:textSize="20sp"
+            tools:ignore="ButtonStyle" />
+
+        <Button
+            android:id="@+id/HomeBTN3"
+            android:layout_width="190dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginEnd="11dp"
+            android:layout_marginRight="10dp"
+            android:background="#94FFFFFF"
+            android:text="@string/HomeBTN3"
+            android:textAllCaps="false"
+            android:textColor="#F1377B"
+            android:textSize="20sp"
+            tools:ignore="ButtonStyle" />
+    </LinearLayout>
+
+</RelativeLayout>

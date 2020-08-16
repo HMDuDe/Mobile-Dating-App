@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "430173334516",
+    "firebase_url": "https://searchmyssoulmate.firebaseio.com",
+    "project_id": "searchmyssoulmate",
+    "storage_bucket": "searchmyssoulmate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430173334516:android:d991fe22a90f7646e027a1",
+        "android_client_info": {
+          "package_name": "com.example.searchmysoulmate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430173334516-le90a1m9spfeo4qktiddlv76vg1mk6g1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.searchmysoulmate",
+            "certificate_hash": "c6f7e68ace8e1f0c7e10d4d50994abd2ce71f07c"
+          }
+        },
+        {
+          "client_id": "430173334516-iutd2qsld2d11r44did9a2tansibbaff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.searchmysoulmate",
+            "certificate_hash": "f531c4966bf3e6876cda3476636739c44cc6a8f3"
+          }
+        },
+        {
+          "client_id": "430173334516-cjqicqtpku9cdremiovqgr6v8mq3g1eq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFCXZc6_REUSv65UdeZb1KKUBlXvPAJFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430173334516-cjqicqtpku9cdremiovqgr6v8mq3g1eq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

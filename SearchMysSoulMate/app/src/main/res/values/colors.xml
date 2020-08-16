@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F8DDD0</color>
+    <color name="colorPrimaryDark">#F78990</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="homeCardViewC">#6FFFFFFF</color>
+    <color name="transParent">#00FFFFFF</color>
+</resources>
